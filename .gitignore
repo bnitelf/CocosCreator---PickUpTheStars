@@ -1,0 +1,12 @@
+# Library folder is generated once the project is first opened and imported.
+/library/
+
+# Local settings folder, personal preferences
+/local/
+
+# Build folder, folder for output of the game (android, ios, window, web)
+/build/
+
+
+# others
+/temp/
